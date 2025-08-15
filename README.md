@@ -1,10 +1,3 @@
-Here’s a clean **GitHub-ready** `README.md` for your `push_to_github.py` script — badges, usage, and clear instructions.
-
----
-
-**File:** `README.md`
-
-````markdown
 # 🚀 Push to GitHub (Force Push Script)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
@@ -94,11 +87,8 @@ Use with caution.
 
 If this saved you time, consider giving it a ⭐ on GitHub!
 
+ETH wallet
+
+```bash
+0x749BFb765F22D851DE809fc1892c0919fAb40cef
 ```
-
----
-
-If you want, I can also add **asciinema GIFs** or screenshots in the README so people see it in action before they even read the usage section.  
-Do you want me to make that visual demo for it?
-```
-
