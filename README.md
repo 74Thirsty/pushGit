@@ -1,9 +1,11 @@
 # 🚀 Push to GitHub (Force Push Script)
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Git](https://img.shields.io/badge/git-compatible-orange)](https://git-scm.com/)
-[![Made With Love](https://img.shields.io/badge/made%20with-love-red.svg)]()
+
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Ethereum](https://img.shields.io/badge/network-Ethereum-%236C71C4)](https://ethereum.org/)
+[![Security](https://img.shields.io/badge/encryption-AES--256-orange.svg)]()
+[![Issues](https://img.shields.io/github/issues/74Thirsty/wallet.svg)](https://github.com/74Thirsty/wallet/issues)
 
 A robust Python utility that **automatically creates or updates a Git repository** in any folder and **force pushes** its contents to a GitHub repository via SSH.
 
